@@ -1,5 +1,5 @@
-DEVICE
-ZWR
+***** DEVICE *****
+; ZWR
 ^%ZIS(1,0)="DEVICE^3.5Is^52^52"
 ^%ZIS(1,1,0)="TIS51^51^1^1^^^^^TIS^^1"
 ^%ZIS(1,1,"SUBTYPE")="9"

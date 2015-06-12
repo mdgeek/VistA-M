@@ -1,5 +1,5 @@
-DRG HAC
-ZWR
+***** DRG HAC *****
+; ZWR
 ^ICDHAC(0)="DRG HAC^80.6^1^1"
 ^ICDHAC(1,0)="0^"
 ^ICDHAC(1,1,0)="^80.62PA^3846^3846"

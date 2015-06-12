@@ -1,3 +1,3 @@
-NOIS MRA
-ZWR
+***** NOIS MRA *****
+; ZWR
 ^FSCD("MRA",0)="NOIS MRA^7101.2P^^"

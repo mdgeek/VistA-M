@@ -1,5 +1,5 @@
-RACE
-ZWR
+***** RACE *****
+; ZWR
 ^DIC(10,0)="RACE^10I^13^13"
 ^DIC(10,0,"DD")="@"
 ^DIC(10,0,"DEL")="@"
