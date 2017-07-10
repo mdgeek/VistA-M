@@ -1,9 +1,1 @@
-.git*            export-ignore
-.hooks*          export-ignore
-
-*                text=auto
-*                whitespace=tab-in-indent
-
-# M routines and globals
-*.m             -whitespace
-*.zwr           -whitespace  hooks.MaxObjectKiB=0
+*.kid linguist-generated=true
